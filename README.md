@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 My Name is Jesse, and I'm a student in New Jersey.
 
 I'm just a normal student with wired ideas and always want to help other people just like me.
 
 ###### I often have some ideas, but I can't  I can make it became true, So I'm working on a project called ***Linect***. I wish more people can make there though became true!
 
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgong-whschool&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesse-0x&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgong-whschool&repo=jgong-whschool.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgong-whschool&repo=bteuch)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=jgong-whschool.github.io)](https://github.com/jgong-whschool/jgong-whschool.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=bteuch)](https://github.com/jgong-whschool/bteuch)
+
