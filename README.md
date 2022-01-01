@@ -22,6 +22,6 @@ I'm just a normal student with wired ideas and always want to help other people 
 
 [![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesse-0x&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=jgong-whschool.github.io)](https://github.com/jgong-whschool/jgong-whschool.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=bteuch)](https://github.com/jgong-whschool/bteuch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=Jesse-0x.github.io)](https://github.com/Jesse-0x/Jesse-0x.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesse-0x&repo=bteuch)](https://github.com/Jesse-0x/bteuch)
 
