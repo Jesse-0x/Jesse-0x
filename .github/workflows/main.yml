@@ -32,7 +32,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: columns
-          config_padding: 0, 150%
+          config_padding: 0, 100%
           config_octicon: yes
           config_timezone: America/Los_Angeles
           config_twemoji: yes
