@@ -31,6 +31,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: columns
+          config_output: png
           config_octicon: yes
           config_timezone: America/Los_Angeles
           config_twemoji: yes
