@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=1000&pause=1000&color=FFBF85&background=73A6FF00&center=true&vCenter=true&width=500&lines=Hiiiiiii+%5E-%5E;I%27m+Jesse!++%E2%88%A0(+%E1%90%9B+%E3%80%8D%E2%88%A0)%EF%BC%BF;Nice+to+meet+you!;Welcome+to+my+Github+profile!+(%C2%B4%E2%96%BD%EF%BD%80)">
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=1000&pause=1000&color=FFBF85&background=73A6FF00&center=true&vCenter=true&width=500&lines=Hiiiiiii+%5E-%5E;I%27m+Jesse!++%E2%88%A0(+%E1%90%9B+%E3%80%8D%E2%88%A0)%EF%BC%BF;Nice+to+meet+you!;Welcome+to+my+Github+profile!+(%C2%B4%E2%96%BD%EF%BD%80)">
 </h1>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%">
@@ -8,7 +8,7 @@
     <img  src="https://komarev.com/ghpvc/?username=Jesse-0x&color=brightgreen&style=for-the-badge&label=This+is+my+profile+view+counts(%C2%B4%E2%96%BD%EF%BD%80):++++++" />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=53b14f&bar_color_cover=true&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=53b14f&bar_color_cover=true&interchange=true&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&redirect=true)
 
 <div align="center">
     <img  src="https://streak-stats.demolab.com?user=Jesse-0x&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
