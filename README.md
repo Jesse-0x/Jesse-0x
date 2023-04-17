@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=1000&pause=1000&color=FFBF85&background=73A6FF00&center=true&vCenter=true&width=500&lines=Hiiiiiii+%5E-%5E;I%27m+Jesse!++%E2%88%A0(+%E1%90%9B+%E3%80%8D%E2%88%A0)%EF%BC%BF;Nice+to+meet+you!;Welcome+to+my+Github+profile!+(%C2%B4%E2%96%BD%EF%BD%80)">
 </h1>
 
-<img src="/github-metrics.svg" alt="Metrics" width="480" height="1956">
+<img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%">
 
 <div align="center">
     <img  src="https://komarev.com/ghpvc/?username=Jesse-0x&color=brightgreen&style=for-the-badge&label=This+is+my+profile+view+counts(%C2%B4%E2%96%BD%EF%BD%80):++++++" />
