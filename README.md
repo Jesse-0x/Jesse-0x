@@ -8,7 +8,7 @@
     <img  src="https://komarev.com/ghpvc/?username=Jesse-0x&color=brightgreen&style=for-the-badge&label=This+is+my+profile+view+counts(%C2%B4%E2%96%BD%EF%BD%80):++++++" />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=53b14f&bar_color_cover=true&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=5a61nsh05fqgawslcdopik1m6&redirect=true)
 
 <div align="center">
     <img  src="https://streak-stats.demolab.com?user=Jesse-0x&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
