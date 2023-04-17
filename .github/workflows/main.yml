@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: regular
+          config_display: columns
           config_padding: 0, -20%
           config_octicon: yes
           config_timezone: America/Los_Angeles
