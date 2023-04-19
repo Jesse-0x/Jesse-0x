@@ -283,20 +283,20 @@ jobs:
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 🧑‍🤝‍🧑 People - Contributors and sponsors
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics/metrics.plugin.people.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-          output_action: none
-          user: Jesse-0x
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🧑‍🤝‍🧑 People - Contributors and sponsors
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics/metrics.plugin.people.repository.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_people: yes
+      #     plugin_people_types: contributors, stargazers, watchers, sponsors
+      #     output_action: none
+      #     user: Jesse-0x
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       - name: 📓 Featured repositories - Featured repositories
         uses: lowlighter/metrics@master
         with:
