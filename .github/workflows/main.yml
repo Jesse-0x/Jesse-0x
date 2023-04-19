@@ -499,19 +499,19 @@ jobs:
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
 
-      - name: 🙋 Introduction - Repository introduction
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics/metrics.plugin.introduction.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          repo: metrics
-          base: header
-          plugin_introduction: yes
-          output_action: none
-          user: Jesse-0x
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🙋 Introduction - Repository introduction
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics/metrics.plugin.introduction.repository.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     template: repository
+      #     repo: metrics
+      #     base: header
+      #     plugin_introduction: yes
+      #     output_action: none
+      #     user: Jesse-0x
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       - name: 🌇 GitHub Skyline - GitHub Skyline
         uses: lowlighter/metrics@master
         with:
