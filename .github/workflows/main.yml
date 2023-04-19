@@ -223,25 +223,6 @@ jobs:
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics/metrics.plugin.contributors.categories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_sections: categories
-          plugin_contributors_categories: |
-            {
-              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
-              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-              "💻 Code (other)":["source/**", "Dockerfile"]
-            }
-          output_action: none
-          user: Jesse-0x
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: 🎟️ Follow-up of issues and pull requests - Opened on user's repositories
         uses: lowlighter/metrics@master
         with:
@@ -517,7 +498,7 @@ jobs:
       #     delay: 120
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      
+
       - name: 🙋 Introduction - Repository introduction
         uses: lowlighter/metrics@master
         with:
