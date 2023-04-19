@@ -799,21 +799,21 @@ jobs:
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 📘 Repository template - Example
-        uses: lowlighter/metrics@master
-        with:
-          template: repository
-          filename: metrics/metrics.repository.svg
-          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-          user: Jesse-0x
-          repo: metrics
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          output_action: none
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+#       - name: 📘 Repository template - Example
+#         uses: lowlighter/metrics@master
+#         with:
+#           template: repository
+#           filename: metrics/metrics.repository.svg
+#           token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+#           user: Jesse-0x
+#           repo: metrics
+#           plugin_lines: yes
+#           plugin_followup: yes
+#           plugin_projects: yes
+#           plugin_projects_repositories: lowlighter/metrics/projects/1
+#           output_action: none
+#           plugins_errors_fatal: yes
+#         if: ${{ success() || failure() }}
       # - name: 📙 Terminal template - Example
       #   uses: lowlighter/metrics@master
       #   with:
