@@ -130,21 +130,6 @@ jobs:
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: ✨ Stargazers - With worldmap
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics/metrics.plugin.stargazers.worldmap.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
-          output_action: none
-          user: Jesse-0x
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: 👨‍💻 Lines of code changed - Compact display in base plugin
         uses: lowlighter/metrics@master
         with:
