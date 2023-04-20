@@ -2,9 +2,47 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=1000&pause=1000&color=FFBF85&background=73A6FF00&center=true&vCenter=true&width=500&lines=Hiiiiiii+%5E-%5E;I%27m+Jesse!++%E2%88%A0(+%E1%90%9B+%E3%80%8D%E2%88%A0)%EF%BC%BF;Nice+to+meet+you!;Welcome+to+my+Github+profile!+(%C2%B4%E2%96%BD%EF%BD%80)">
 </h1>
 
-<a href="https://github.com/Jesse-0x">
-    <img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%">
-</a>
+
+
+
+<table>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.base.svg" alt="metrics.base" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.projects.svg" alt="metrics.plugin.projects" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.achievements.compact.svg" alt="metrics.plugin.achievements.compact" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.lines.svg" alt="metrics.plugin.lines" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.people.followers.svg" alt="metrics.plugin.people.followers" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.languages.details.svg" alt="metrics.plugin.languages.details" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.isocalendar.fullyear.svg" alt="metrics.plugin.isocalendar.fullyear" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.activity.svg" alt="metrics.plugin.activity" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.stars.svg" alt="metrics.plugin.stars" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.calendar.full.svg" alt="metrics.plugin.calendar.full" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.repositories.pinned.svg" alt="metrics.plugin.repositories.pinned" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.traffic.svg" alt="metrics.plugin.traffic" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.followup.indepth.svg" alt="metrics.plugin.followup.indepth" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.habits.charts.svg" alt="metrics.plugin.habits.charts" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.habits.facts.svg" alt="metrics.plugin.habits.facts" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/Jesse-0x/Jesse-0x/metrics/metrics.plugin.stargazers.svg" alt="metrics.plugin.stargazers" /></td>
+
+</table>
+
+
+
+
 
 <div align="center">
     <img  src="https://komarev.com/ghpvc/?username=Jesse-0x&color=brightgreen&style=for-the-badge&label=This+is+my+profile+view+counts(%C2%B4%E2%96%BD%EF%BD%80):++++++" />
