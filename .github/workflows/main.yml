@@ -18,7 +18,6 @@ jobs:
           filename: metrics/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -29,7 +28,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -41,7 +39,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -55,7 +52,6 @@ jobs:
           plugin_languages_ignored: >-
             css, tex, less, makefile, qmake, lex, cmake, gnuplot
           # plugin_languages_limit: 4
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -70,7 +66,6 @@ jobs:
             css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_details: bytes-size, percentage
           # plugin_languages_limit: 4
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -86,7 +81,6 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           # plugin_languages_limit: 4
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -103,7 +97,6 @@ jobs:
           plugin_languages_details: lines, bytes-size
           # plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -114,7 +107,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -126,7 +118,6 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -137,7 +128,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_lines: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -154,7 +144,6 @@ jobs:
           repositories_skipped: |
             @use.patterns
             */*
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -166,7 +155,6 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -179,7 +167,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -191,7 +178,6 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -205,7 +191,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: America/Los_Angeles
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -219,7 +204,6 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: America/Los_Angeles
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -230,7 +214,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -242,7 +225,6 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -254,7 +236,6 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -267,7 +248,6 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -279,7 +259,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -305,7 +284,6 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: lowlighter/metrics
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -317,7 +295,6 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -330,7 +307,6 @@ jobs:
           plugin_starlists: yes
           plugin_starlists_limit_repositories: 2
           plugin_starlists_only: TC39
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -345,7 +321,6 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
           plugin_starlists_only: Awesome
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -356,7 +331,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -368,7 +342,6 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -380,7 +353,6 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: sponsor, maintainer, octonaut
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -396,7 +368,6 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -407,7 +378,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -420,7 +390,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -434,7 +403,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -445,7 +413,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
           base: repositories
           plugin_traffic: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -458,7 +425,6 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript
           plugin_code_load: 400
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -469,7 +435,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_gists: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -482,7 +447,6 @@ jobs:
           plugin_projects: yes
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugin_projects_descriptions: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -522,7 +486,6 @@ jobs:
           plugin_skyline_year: 2020
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -543,7 +506,6 @@ jobs:
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -761,7 +723,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -773,7 +734,6 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -784,7 +744,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_fortune: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -795,7 +754,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-          output_action: none
           user: Jesse-0x
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
@@ -811,8 +769,7 @@ jobs:
 #           plugin_followup: yes
 #           plugin_projects: yes
 #           plugin_projects_repositories: lowlighter/metrics/projects/1
-#           output_action: none
-#           plugins_errors_fatal: yes
+# #           plugins_errors_fatal: yes
 #         if: ${{ success() || failure() }}
       # - name: 📙 Terminal template - Example
       #   uses: lowlighter/metrics@master
