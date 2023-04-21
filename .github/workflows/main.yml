@@ -3,7 +3,10 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually and on each commit 
+  # QwQ my stricks... I did't know it's EST time... 
+  # It's just me third month moved to PST...
+  # Fxxk
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
