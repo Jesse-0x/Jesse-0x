@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 138kb of code in 84 edited files across 94 commits</small>
+                <small>estimation from 146kb of code in 88 edited files across 96 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -34,8 +34,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>39 lines</div>
-                                <div>1.03 kB</div>
+                                <div>350 lines</div>
+                                <div>8.77 kB</div>
                             </small>
                         </div>
                     </section>
