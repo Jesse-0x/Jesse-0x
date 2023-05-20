@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stop Saying C&amp;#x2F;C++</div>
+                                <div class="title">Nyxt: The Hacker&amp;#x27;s Browser</div>
                                 <div class="date">19 May 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GeForce RTX 4060 Ti and 4060 Graphics Cards</div>
+                                <div class="title">PyTorch for WebGPU</div>
                                 <div class="date">19 May 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why is my dryer radioactive?</div>
-                                <div class="date">18 May 2023</div>
+                                <div class="title">Book Review: “Quantum Supremacy” by Michio Kaku (Tl;Dr Do Not Buy)</div>
+                                <div class="date">20 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">High-performance tidy trees visualization</div>
-                                <div class="date">18 May 2023</div>
+                                <div class="title">Tunnel via Cloudflare to any TCP service</div>
+                                <div class="date">19 May 2023</div>
                             </div>
                         </div>
                     </section>
