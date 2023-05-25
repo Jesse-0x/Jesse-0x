@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Regent – 100% Electric Coastal Travel</div>
-                                <div class="date">23 May 2023</div>
+                                <div class="title">The tiny corp raised $5.1M</div>
+                                <div class="date">24 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kanboard: free and open source Kanban project management software</div>
-                                <div class="date">23 May 2023</div>
+                                <div class="title">PyPI Was Subpoenaed</div>
+                                <div class="date">24 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nginx 1.25.0: experimental HTTP&amp;#x2F;3 support</div>
-                                <div class="date">23 May 2023</div>
+                                <div class="title">Minix development has been abandoned, with no updates in almost 5 years</div>
+                                <div class="date">24 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">50 years in filesystems: towards 2004 – LFS</div>
-                                <div class="date">23 May 2023</div>
+                                <div class="title">SectorC: A C Compiler in 512 bytes</div>
+                                <div class="date">24 May 2023</div>
                             </div>
                         </div>
                     </section>
