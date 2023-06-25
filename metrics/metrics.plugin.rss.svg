@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The rule says, “No vehicles in the park”</div>
-                                <div class="date">23 Jun 2023</div>
+                                <div class="title">Try: run a command and inspect its effects before changing your live system</div>
+                                <div class="date">24 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Full ignition for ESA’s reusable rocket engine</div>
-                                <div class="date">23 Jun 2023</div>
+                                <div class="title">On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]</div>
+                                <div class="date">24 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">64-Bit RISC-V with Apache NuttX Real-Time Operating System</div>
-                                <div class="date">23 Jun 2023</div>
+                                <div class="title">WeeChat Version 4.0.0</div>
+                                <div class="date">25 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Millions of GitHub repos likely vulnerable to RepoJacking, researchers say</div>
+                                <div class="title">AMD's 128-core Epycs could spell trouble for Ampere Computing</div>
                                 <div class="date">23 Jun 2023</div>
                             </div>
                         </div>
