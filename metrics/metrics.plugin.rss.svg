@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sonoma's log gets briefer and more secretive</div>
-                                <div class="date">7 Oct 2023</div>
+                                <div class="title">My personal C coding style as of late 2023</div>
+                                <div class="date">9 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Decomposing Language Models into Understandable Components</div>
+                                <div class="title">MiniDisc Hacking</div>
                                 <div class="date">8 Oct 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Permission Slip: Consumer Reports app to take back control of your data</div>
-                                <div class="date">7 Oct 2023</div>
+                                <div class="title">Metals Fuse Together in Space</div>
+                                <div class="date">8 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Paperless-ngx – Open source document management system</div>
-                                <div class="date">7 Oct 2023</div>
+                                <div class="title">OpenIPC: Alternative open firmware for your IP camera</div>
+                                <div class="date">8 Oct 2023</div>
                             </div>
                         </div>
                     </section>
