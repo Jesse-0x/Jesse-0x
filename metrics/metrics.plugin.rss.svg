@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My personal C coding style as of late 2023</div>
+                                <div class="title">DSLinux – Linux for the Nintendo DS</div>
                                 <div class="date">9 Oct 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MiniDisc Hacking</div>
-                                <div class="date">8 Oct 2023</div>
+                                <div class="title">ECC RAM on AMD Ryzen 7000 Desktop CPUs</div>
+                                <div class="date">9 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Metals Fuse Together in Space</div>
-                                <div class="date">8 Oct 2023</div>
+                                <div class="title">John Riccitiello steps down as CEO of Unity</div>
+                                <div class="date">9 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenIPC: Alternative open firmware for your IP camera</div>
-                                <div class="date">8 Oct 2023</div>
+                                <div class="title">RAG at scale: Synchronizing and ingesting billions of text embeddings</div>
+                                <div class="date">9 Oct 2023</div>
                             </div>
                         </div>
                     </section>
