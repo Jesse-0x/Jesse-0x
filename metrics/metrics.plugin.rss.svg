@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sam Altman returns as CEO, OpenAI has a new initial board</div>
+                                <div class="title">Visual Anagrams: Generating optical illusions with diffusion models</div>
                                 <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Llamafile lets you distribute and run LLMs with a single file</div>
-                                <div class="date">29 Nov 2023</div>
+                                <div class="title">Show HN: Bi-directional sync between Postgres and SQLite</div>
+                                <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Write shaders for the (sim) Vegas sphere</div>
-                                <div class="date">29 Nov 2023</div>
+                                <div class="title">Turbo Pascal Turns 40</div>
+                                <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Who makes the most reliable new cars?</div>
-                                <div class="date">29 Nov 2023</div>
+                                <div class="title">Stanisław Lem's vision of artificial life</div>
+                                <div class="date">30 Nov 2023</div>
                             </div>
                         </div>
                     </section>
