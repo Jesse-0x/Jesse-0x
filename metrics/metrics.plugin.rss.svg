@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cray-1 vs Raspberry Pi</div>
+                                <div class="title">Fed court rules for retired engineer told by state to not talk about math</div>
+                                <div class="date">26 Dec 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Stirling-PDF: local web application to perform various operations on PDFs</div>
                                 <div class="date">25 Dec 2023</div>
                             </div>
                         </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Did English ever have a formal version of "you"? (2011)</div>
-                                <div class="date">24 Dec 2023</div>
+                                <div class="title">Nintendo Network shutdown – The beginning of the end</div>
+                                <div class="date">25 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">x86-64 Assembly Language Programming with Ubuntu (2022)</div>
-                                <div class="date">24 Dec 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">"Attention", "Transformers", in Neural Network "Large Language Models"</div>
-                                <div class="date">24 Dec 2023</div>
+                                <div class="title">Electronic soil boosts crop growth by over 50%</div>
+                                <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
                     </section>
