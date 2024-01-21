@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's that touchscreen in my room?</div>
-                                <div class="date">20 Jan 2024</div>
+                                <div class="title">Anime is a $25B industry that pays its animators pennies</div>
+                                <div class="date">21 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vint Cerf is accumulating Dave Mills stories</div>
-                                <div class="date">20 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ceph: A Journey to 1 TiB/s</div>
+                                <div class="title">Nightshade: An offensive tool for artists against AI art generators</div>
                                 <div class="date">19 Jan 2024</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Platform Tilt</div>
-                                <div class="date">19 Jan 2024</div>
+                                <div class="title">Investigating a vanishing BIOS on the Fujitsu Lifebook AH532</div>
+                                <div class="date">20 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Checkmate Champ – a training tool for chess tactics</div>
+                                <div class="date">20 Jan 2024</div>
                             </div>
                         </div>
                     </section>
