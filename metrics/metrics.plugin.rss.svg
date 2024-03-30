@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Doom Captcha</div>
-                                <div class="date">28 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The rev.ng decompiler goes open source</div>
+                                <div class="title">Backdoor in upstream xz/liblzma leading to SSH server compromise</div>
                                 <div class="date">29 Mar 2024</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deep Learning in JavaScript</div>
-                                <div class="date">28 Mar 2024</div>
+                                <div class="title">Engineers find a new way to convert carbon dioxide into useful products</div>
+                                <div class="date">29 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Facebook let Netflix see user DMs, quit streaming to keep Netflix happy</div>
-                                <div class="date">28 Mar 2024</div>
+                                <div class="title">Santa Barbara's Collective Memory, Sold for Kindling</div>
+                                <div class="date">29 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Running a Raspberry Pi with a read-only root filesystem</div>
+                                <div class="date">29 Mar 2024</div>
                             </div>
                         </div>
                     </section>
