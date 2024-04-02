@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Overview: What are Cpp2 and cppfront? How do I get and build cppfront?</div>
-                                <div class="date">31 Mar 2024</div>
+                                <div class="title">Vision Transformers Are Overrated</div>
+                                <div class="date">2 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Libmui is a macOS Classic widget lib for Linux</div>
-                                <div class="date">31 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Python farming as flexible efficient agricultural food security</div>
+                                <div class="title">Xzbot: Notes, honeypot, and exploit demo for the xz backdoor</div>
                                 <div class="date">1 Apr 2024</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Documentation for the AMD 7900XTX</div>
-                                <div class="date">31 Mar 2024</div>
+                                <div class="title">The Wi-Fi only works when it's raining</div>
+                                <div class="date">1 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Ask HN: Who is hiring? (April 2024)</div>
+                                <div class="date">1 Apr 2024</div>
                             </div>
                         </div>
                     </section>
