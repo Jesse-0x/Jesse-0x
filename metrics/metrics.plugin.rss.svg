@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Social engineering takeovers of open source projects</div>
-                                <div class="date">5 May 2024</div>
+                                <div class="title">Caniemail.com – like caniuse but for email content</div>
+                                <div class="date">6 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deep Reinforcement Learning: Zero to Hero</div>
-                                <div class="date">5 May 2024</div>
+                                <div class="title">Vets fret as private equity snaps up clinics, pet care companies</div>
+                                <div class="date">7 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bollards: Why and What</div>
-                                <div class="date">5 May 2024</div>
+                                <div class="title">Eli Bendersky: Faster XML Stream Processing in Go</div>
+                                <div class="date">7 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">X.org on NetBSD – The State of Things</div>
+                                <div class="title">A 100x speedup with unsafe Python</div>
                                 <div class="date">5 May 2024</div>
                             </div>
                         </div>
