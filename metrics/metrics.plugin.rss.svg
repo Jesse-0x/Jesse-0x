@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">tolower() with AVX-512</div>
-                                <div class="date">28 Jul 2024</div>
+                                <div class="title">SAM 2: Segment Anything in Images and Videos</div>
+                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LeanDojo: Theorem Proving in Lean Using LLMs</div>
-                                <div class="date">28 Jul 2024</div>
+                                <div class="title">Four billion years in four minutes – Simulating worlds on the GPU</div>
+                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Higher-kinded bounded polymorphism in OCaml (2021)</div>
-                                <div class="date">28 Jul 2024</div>
+                                <div class="title">CrowdStrike's impact on aviation</div>
+                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: A football/soccer pass visualizer made with Three.js</div>
-                                <div class="date">28 Jul 2024</div>
+                                <div class="title">One-man SaaS, 9 Years In</div>
+                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                     </section>
