@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Name is Jesse, and I'm a student in New Jersey.
+My Name is Jesse, and I'm a student!
 
 I'm just a normal student with wired ideas and always want to help other people just like me.
 
